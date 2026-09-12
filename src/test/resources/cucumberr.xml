@@ -1,0 +1,8 @@
+<suite name="cucumber test">
+<test name="Login">
+<classes>
+	<class name="Runner.TestRunner"/>
+</classes>
+
+</test>
+</suite>
