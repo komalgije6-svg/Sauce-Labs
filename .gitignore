@@ -1,0 +1,17 @@
+#Maven Ignore
+target/
+
+#TestNg 
+test-output/
+
+#Eclipse
+.classpath
+.project
+.settings/
+
+#IDE
+.idea/
+*.iml
+
+#logs
+*.logs
